@@ -1,0 +1,17 @@
+name: dk
+version: 0.1.0
+
+authors:
+  - mosop
+
+crystal: 0.21.0
+
+license: MIT
+
+dependencies:
+  crul:
+    github: mosop/crul
+    version: ~> 0.1.0
+  global_config:
+    github: mosop/global_config
+    version: ~> 0.1.0
